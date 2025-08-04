@@ -133,7 +133,7 @@
 .hour-unavailable {
   opacity: 0.5;
 
-  cursor: not-allowed;
+  cursor: not-allowed; /*aparece o circulo cortado*/
 }
 
 .hour-selected {
@@ -141,7 +141,7 @@
   color: #b8952e;
 }
 
-.hour:not(.hour-unavailable):hover {
+.hour:not(.hour-unavailable):hover { /* não fuciona se estiver com data passada */
   border: 1px solid #b8952e;
   color: #b8952e;
 }
