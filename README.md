@@ -1,5 +1,6 @@
 # 📅 Projeto: HairDay – Sistema de Agendamentos  
 
+
 **Desenvolvido por:** Dev Eduardo José Marinho  
 **Desafio:** Projeto  de Estudo de lógica e modularização com JavaScript - Rocketseat.
 
@@ -43,7 +44,7 @@ A modularização dos scripts e a separação por responsabilidades tornaram o c
    ```bash
    npm install -g json-server
 
-    
+                              ---<>---
 
     🛠️ Construir ❌ Errar 🔁 Refatorar 📚 Aprender 
     → Esse é o caminho do Dev. — Edu Marinho
